@@ -1,0 +1,227 @@
+.problemasgolpes-child {
+    position: absolute;
+    top: 211px;
+    left: calc(50% - 465px);
+    width: 930px;
+    height: 524px;
+    object-fit: cover;
+}
+.barra {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #1e3a5f;
+}
+.home1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    display: inline-block;
+}
+.home {
+    position: absolute;
+    height: 100%;
+    width: 7.84%;
+    top: 0%;
+    right: 92.16%;
+    bottom: 0%;
+    left: 0%;
+}
+.sobre {
+    position: absolute;
+    height: 100%;
+    width: 9.28%;
+    top: 0%;
+    right: 75.2%;
+    bottom: 0%;
+    left: 15.52%;
+    cursor: pointer;
+}
+.para-jovens {
+    position: absolute;
+    height: 98.27%;
+    width: 18.08%;
+    top: 0%;
+    right: 49.44%;
+    bottom: 1.73%;
+    left: 32.48%;
+    cursor: pointer;
+}
+.contact {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.para-adultos {
+    position: absolute;
+    height: 100%;
+    width: 19.68%;
+    top: 0%;
+    right: 22.08%;
+    bottom: 0%;
+    left: 58.24%;
+    cursor: pointer;
+}
+.contatos {
+    position: absolute;
+    height: 100%;
+    width: 14.4%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 85.6%;
+}
+.menu {
+    position: absolute;
+    height: 18.02%;
+    width: 43.4%;
+    top: 40.63%;
+    right: 16.67%;
+    bottom: 41.35%;
+    left: 39.93%;
+}
+.dinheiro-inteligente {
+    position: absolute;
+    top: 34%;
+    left: 28.68%;
+}
+.headerr-child {
+    position: absolute;
+    height: 100%;
+    width: 19.38%;
+    top: 0%;
+    right: 80.62%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 50%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.headerr {
+    position: absolute;
+    height: 52.08%;
+    width: 17.92%;
+    top: 22.92%;
+    right: 70.76%;
+    bottom: 25%;
+    left: 11.32%;
+    font-size: 20px;
+    color: #fff;
+    font-family: Jaro;
+}
+.header-child {
+    position: absolute;
+    height: 104.17%;
+    width: 6.94%;
+    top: 2.08%;
+    right: 69.79%;
+    bottom: -6.25%;
+    left: 23.26%;
+    overflow: hidden;
+}
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 96px;
+    font-size: 16px;
+    color: #f4f4f4;
+    font-family: Inter;
+}
+.golpes-so-prticas {
+    margin: 0;
+}
+.golpes-financeiros-envolvem {
+    margin-bottom: 0px;
+}
+.golpes-financeiros-envolvem-a {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 43px;
+}
+.golpes-so-prticas-container {
+    position: absolute;
+    top: 786px;
+    left: 94px;
+    font-weight: 200;
+    text-align: center;
+    display: inline-block;
+    width: 1251px;
+}
+.causas-dos-golpes {
+    position: absolute;
+    top: 1838px;
+    left: 94px;
+    font-size: 40px;
+    letter-spacing: -0.11em;
+    font-family: 'Julius Sans One';
+    color: #ff6f00;
+    display: inline-block;
+    width: 1179px;
+    height: 51px;
+}
+.consequncias-dos-golpes {
+    position: absolute;
+    top: 2814px;
+    left: 100px;
+    font-size: 40px;
+    letter-spacing: -0.11em;
+    font-family: 'Julius Sans One';
+    color: #ff6f00;
+    display: inline-block;
+    width: 1179px;
+    height: 51px;
+}
+.perda-financeira-a-container {
+    position: absolute;
+    top: 2882px;
+    left: 83px;
+    font-weight: 200;
+    display: inline-block;
+    width: 1302px;
+}
+.retngulo-das-redes-sociais {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #ff6f00;
+    width: 1440px;
+    height: 132px;
+}
+.whatsapp {
+    position: absolute;
+    top: 143.2px;
+    left: 1196px;
+    width: 93px;
+    height: 74.4px;
+    overflow: hidden;
+}
+.redes-sociais {
+    position: absolute;
+    top: 3854px;
+    left: 0px;
+    width: 1440px;
+    height: 217.6px;
+}
+.problemasgolpes {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 3970px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 32px;
+    color: #000;
+    font-family: 'Lexend Deca';
+}
+

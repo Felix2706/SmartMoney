@@ -1,0 +1,740 @@
+body{
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    cursor: url(../img/Cursor.png)
+}
+
+main{
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    cursor: url(../img/Cursor.png) 
+}
+
+.butaum {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+
+    height: 200px;
+    width: 200px;
+}
+
+.IA {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    border-radius: 50%;
+    height: 65px;
+    width: 65px;
+}
+
+.a {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1440px;
+     height: 5380px;
+     position: relative;
+    background: #1E3A5F
+}
+
+.b {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+
+    left: 0px;
+     top: 96px; 
+     position: absolute; 
+     background: white;
+      flex-direction: column;
+       justify-content: flex-start;
+       align-items: flex-end;
+        gap: 79px;
+         display: inline-flex
+}
+
+.c {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    height: 827px; padding-top: 127px; padding-bottom: 148px; padding-left: 160px; padding-right: 160px; justify-content: center; align-items: center; display: inline-flex
+}
+
+.d {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+
+    width: 1120px; height: 552px; position: relative
+}
+
+.e {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 551px; height: 144px; left: 0px; top: 0px; position: absolute; color: #FF6F00; font-size: 48px; font-family: Julius Sans One; font-weight: 400; word-wrap: break-word
+}
+.f {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 546px; height: 372px; left: 3px; top: 180px; position: absolute; color: black; font-size: 30px; font-family: Lexend Deca; font-weight: 200; word-wrap: break-word
+}
+
+.g {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 550px; height: 507px; left: 570px; top: 10px; position: absolute
+}
+.h {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+     height: 125px; background: #1E3A5F
+}
+.i {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    padding-top: 91px; padding-bottom: 221px; padding-left: 165px; padding-right: 660px; left: 0px; top: 1120px; position: absolute; background: linear-gradient(180deg, #1E3A5F 69%, #3E78C5 100%); flex-direction: column; justify-content: flex-start; align-items: center; gap: 61px; display: inline-flex
+}
+
+.j {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 615px; height: 70px; color: white; font-size: 64px; font-family: Julius Sans One; font-weight: 400; word-wrap: break-word
+}
+.k {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    align-self: stretch; height: 581px; position: relative
+}
+.l {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 325px; height: 581px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex
+}
+
+.m {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 325px; height: 581px; background: transparent; border-radius: 30px
+}
+
+.n {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 325px; height: 314px; border-radius: 28px
+}
+
+.o {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 60px; color: black; font-size: 20px; font-family: Lexend Deca; font-weight: 900; word-wrap: break-word
+}
+
+.p {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 292px; height: 109px; color: black; font-size: 15px; font-family: Lexend Deca; font-weight: 200; word-wrap: break-word
+}
+
+.q {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 325px; height: 581px; left: 392px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex
+}
+
+.r {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 325px; height: 581px; background: transparent; border-radius: 30px
+}
+
+.s {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 324.66px; height: 314px; border-radius: 28px
+}
+
+.t {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 155px; color: black; font-size: 20px; font-family: Lexend Deca; font-weight: 900; word-wrap: break-word
+}
+
+.u {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 274px; height: 114px; color: black; font-size: 15px; font-family: Lexend Deca; font-weight: 200; word-wrap: break-word
+}
+
+.v {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 325px; height: 581px; left: 784px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex
+}
+
+.w {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 325px; height: 581px; background: transparent;border-radius: 30px
+}
+
+.y {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 324.66px; height: 314px; border-radius: 28px
+}
+
+.z {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 162px; color: black; font-size: 20px; font-family: Lexend Deca; font-weight: 900; word-wrap: break-word
+}
+
+.aa {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 285px; color: black; font-size: 15px; font-family: Lexend Deca; font-weight: 200; word-wrap: break-word
+}
+
+.ab {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1440px; height: 1024px; left: -1px; top: 2144px; position: absolute; background: linear-gradient(360deg, #1E3A5F 71%, #3E78C5 100%)
+}
+
+.ac {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1120px; height: 590px; left: 119px; top: 217px; position: absolute
+}
+
+.ad {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1120px; height: 272px; left: 0px; top: 0px; position: absolute; opacity: 0.75"
+}
+
+.ae {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1120px; height: 272px; left: 0px; top: 0px; position: absolute; background: #FF6F00; border-radius: 50px
+}
+
+.af {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1010px; height: 222px; left: 38px; top: 29px; position: absolute
+}
+
+.ag {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+
+    width: 153px; height: 38px; left: 857px; top: 184px; position: absolute; color: black; font-size: 30px; font-family: Lexend Deca; font-weight: 200; word-wrap: break-word
+}
+
+.ah {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 346px; left: 338px; top: 0px; position: absolute; color: black; font-size: 40px; font-family: Julius Sans One; font-weight: 400; word-wrap: break-word
+}
+
+.ai {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 541px; left: 345px; top: 73px; position: absolute; color: black; font-size: 15px; font-family: Lexend Deca; font-weight: 200; word-wrap: break-word
+}
+
+.ak {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 306px; height: 213px; left: 0px; top: 0px; position: absolute; border-radius: 20px
+}
+
+.al {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1120px; height: 272px; left: 0px; top: 318px; position: absolute; opacity: 0.75
+}
+
+.am {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1120px; height: 272px; left: 0px; top: 0px; position: absolute; background: #FF6F00; border-radius: 50px
+}
+
+.an {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1010px; height: 222px; left: 38px; top: 29px; position: absolute
+}
+
+.ao {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 153px; left: 857px; top: 184px; position: absolute; color: black; font-size: 30px; font-family: Lexend Deca; font-weight: 200; word-wrap: break-word
+}
+
+.ap {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 346px; left: 338px; top: 0px; position: absolute; color: black; font-size: 40px; font-family: Julius Sans One; font-weight: 400; word-wrap: break-word
+}
+
+.aq {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 541px; left: 345px; top: 54px; position: absolute; color: black; font-size: 15px; font-family: Lexend Deca; font-weight: 200; word-wrap: break-word
+}
+
+.ar {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 306px; height: 213px; left: 0px; top: 0px; position: absolute; border-radius: 20px
+}
+
+.as {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 672px; height: 70px; left: 361px; top: 92px; position: absolute; color: white; font-size: 64px; font-family: Julius Sans One; font-weight: 400; word-wrap: break-word
+}
+
+.at {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1440px; height: 1024px; left: -1px; top: 3168px; position: absolute; background: #1E3A5F
+}
+
+.au {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1120px; height: 794px; left: 160px; top: 115px; position: absolute; background: #FF6F00; border-radius: 100px
+}
+
+.av {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 551px; height: 658px; left: 445px; top: 183px; position: absolute
+}
+
+.aw {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    left: 33px; top: 0px; position: absolute; color: white; font-size: 64px; font-family: Julius Sans One; font-weight: 400; word-wrap: break-word
+}
+
+.ay {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 551px; height: 89px; left: 0px; top: 92px; position: absolute
+}
+
+.az {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 551px; height: 64px; left: 0px; top: 25px; position: absolute; opacity: 0.40; background: #F4F4F4; border-radius: 20px
+}
+
+.aaa {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    left: 4px; top: 0px; position: absolute; color: black; font-size: 15px; font-family: Lexend Deca; font-weight: 400; word-wrap: break-word
+}
+
+.aab {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 551px; height: 88px; left: 0px; top: 204px; position: absolute
+}
+
+.aac {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 551px; height: 64px; left: 0px; top: 24px; position: absolute; opacity: 0.40; background: #F4F4F4; border-radius: 20px
+}
+
+.aad {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    left: 2px; top: 0px; position: absolute; color: black; font-size: 15px; font-family: Lexend Deca; font-weight: 400; word-wrap: break-word
+}
+
+.aae {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 551px; height: 88px; left: 0px; top: 315px; position: absolute
+}
+
+.aaf {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 551px; height: 64px; left: 0px; top: 24px; position: absolute; opacity: 0.40; background: #F4F4F4; border-radius: 20px
+}
+
+.aag {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    left: 4px; top: 0px; position: absolute; color: black; font-size: 15px; font-family: Lexend Deca; font-weight: 400; word-wrap: break-word
+}
+
+.aah {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 551px; height: 233px; left: 0px; top: 425px; position: absolute
+}
+
+.aai {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 551px; height: 208px; left: 0px; top: 25px; position: absolute; background: rgba(244, 244, 244, 0.40); border-radius: 20px
+}
+
+.aaj {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    left: 4px; top: 0px; position: absolute; color: black; font-size: 15px; font-family: Lexend Deca; font-weight: 400; word-wrap: break-word
+}
+
+.aak {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1440px; padding-top: 56px; padding-bottom: 120px; left: -1px; top: 4192px; position: absolute; background: #1E3A5F; justify-content: center; align-items: center; display: inline-flex
+}
+
+.aal {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1085px; height: 848px; position: relative
+}
+
+.aam {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    left: 311px; top: 0px; position: absolute; color: white; font-size: 64px; font-family: Julius Sans One; font-weight: 400; word-wrap: break-word
+}
+
+.aan {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1085px; height: 715px; left: 0px; top: 133px; position: absolute
+}
+
+.aao {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 348px; height: 347px; left: 0px; top: 0px; position: absolute
+}
+
+.aap {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 348px; height: 347px; left: 735px; top: 0px; position: absolute
+}
+
+.aaq {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 347px; height: 347px; left: 368px; top: 368px; position: absolute
+}
+
+.aar {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 348px; height: 347px; left: 0px; top: 368px; position: absolute
+}
+
+.aas {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 347px; height: 347px; left: 0px; top: 0px; position: absolute; background: #F4F4F4
+}
+
+.aat {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 148px; height: 28px; padding-left: 20px; padding-right: 20px; left: 100px; top: 237px; position: absolute; justify-content: flex-start; align-items: center; gap: 26px; display: inline-flex
+}
+
+.aau {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 24px; height: 24px; position: relative
+}
+
+.aav {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 20px; height: 20px; left: 3px; top: 3px; position: absolute; background: #FF6F00
+}
+
+.aaw {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 24px; height: 24px; left: -1px; top: 3px; position: absolute
+}
+
+.aay {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 18px; height: 20.02px; background: #FF6F00
+}
+
+.aaz {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 16.01px; height: 16.01px; background: #FF6F00
+}
+
+.ba {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 348px; height: 58px; left: 0px; top: 38px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Lexend Deca; font-weight: 400; word-wrap: break-word
+}
+
+.bb {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 283px; height: 2px; left: 32px; top: 124px; position: absolute; background: #FF6F00
+}
+
+.bc {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 283px; height: 58px; left: 33px; top: 144px; position: absolute; text-align: center; color: black; font-size: 14px; font-family: Lexend Deca; font-weight: 300; word-wrap: break-word
+}
+
+.bd {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 348px; height: 347px; left: 736px; top: 368px; position: absolute
+}
+
+.be {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 347px; height: 347px; left: 0px; top: 0px; position: absolute; background: #F4F4F4
+}
+
+.bf {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 148px; height: 28px; padding-left: 20px; padding-right: 20px; left: 100px; top: 237px; position: absolute; justify-content: flex-start; align-items: center; gap: 26px; display: inline-flex
+}
+
+.bg {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 24px; height: 24px; position: relative
+}
+
+.bh {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 20px; height: 20px; left: 3px; top: 3px; position: absolute; background: #FF6F00
+}
+
+.bi {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 24px; height: 24px; left: -1px; top: 3px; position: absolute
+}
+
+.bj {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+
+    width: 18px; height: 20.02px; background: #FF6F00
+}
+
+.bk {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 16.01px; height: 16.01px; background: #FF6F00
+}
+
+.bl {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 348px; height: 58px; left: 0px; top: 38px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Lexend Deca; font-weight: 400; word-wrap: break-word
+}
+
+.bm {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 283px; height: 2px; left: 32px; top: 124px; position: absolute; background: #FF6F00
+}
+
+.bn {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 283px; height: 72px; left: 33px; top: 144px; position: absolute; text-align: center; color: black; font-size: 14px; font-family: Lexend Deca; font-weight: 300; word-wrap: break-word
+}
+
+.bo {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 348px; height: 347px; left: 367px; top: 0px; position: absolute
+}
+
+.bp {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 347px; height: 347px; left: 0px; top: 0px; position: absolute; background: #F4F4F4
+}
+
+.bq {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 148px; height: 28px; padding-left: 20px; padding-right: 20px; left: 100px; top: 237px; position: absolute; justify-content: flex-start; align-items: center; gap: 26px; display: inline-flex
+}
+
+.br {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 24px; height: 24px; position: relative
+}
+
+.bs {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 20px; height: 20px; left: 3px; top: 3px; position: absolute; background: #FF6F00
+}
+
+.bt {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 24px; height: 24px; left: -1px; top: 3px; position: absolute
+}
+
+.bu {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 18px; height: 20.02px; background: #FF6F00
+}
+
+.bv {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 16.01px; height: 16.01px; background: #FF6F00
+}
+
+.bw {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 348px; height: 58px; left: 0px; top: 38px; position: absolute; text-align: center; color: black; font-size: 36px; font-family: Lexend Deca; font-weight: 400; word-wrap: break-word
+}
+
+.by {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 283px; height: 2px; left: 32px; top: 124px; position: absolute; background: #FF6F00
+}
+
+.bz {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 283px; height: 58px; left: 33px; top: 144px; position: absolute; text-align: center; color: black; font-size: 14px; font-family: Lexend Deca; font-weight: 300; word-wrap: break-word
+}
+
+.ca {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 348px; height: 84px; left: 0px; top: 263px; position: absolute; background: #FF6F00
+}
+
+.cb {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 350px; height: 84px; left: 735px; top: 263px; position: absolute; background: #FF6F00
+}
+
+.cc {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 348px; height: 59px; left: 367px; top: 656px; position: absolute; background: #FF6F00
+}
+
+.cd {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1440px; height: 132px; left: 0px; top: 5248px; position: absolute
+}
+
+.ce {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1440px; height: 132px; left: 0px; top: 0px; position: relative; background: #FF6F00;
+}
+
+.cf {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 93px; height: 74.40px; left: 1196px; top: 31.20px; position: absolute
+}
+
+.cg {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1440px; height: 96px; left: 0px; top: 0px; position: absolute
+}
+
+.ch {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 1440px; height: 96px; left: 0px; top: 0px; position: absolute; background: #1E3A5F
+}
+
+.ci {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 625px; height: 17.29px; left: 575px; top: 39px; position: absolute
+}
+
+.cj {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 49px; height: 17.29px; left: 0px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex
+}
+
+.ck {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 49px; height: 17.29px; color: #F4F4F4; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word
+}
+
+.cl {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 58px; height: 17.29px; left: 97px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex
+}
+
+.cm {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 58px; height: 17.29px; color: #ffffff; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word
+}
+
+.cn {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 113px; height: 17px; left: 203px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex
+}
+
+.co {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 113px; height: 17px; color: #F4F4F4; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word
+}
+
+.cp {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 123px; height: 17.29px; padding-right: 3px; left: 364px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex
+}
+
+.cq {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    color: #F4F4F4; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word
+}
+
+.cr {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 90px; height: 17.29px; padding-right: 3px; left: 535px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex
+}
+
+.cs {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    color: #F4F4F4; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word
+}
+
+.ct {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 258px; height: 50px; left: 163px; top: 22px; position: absolute
+}
+
+.cu {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    left: 74px; top: 17px; position: absolute; color: white; font-size: 20px; font-family: Jaro; font-weight: 400; word-wrap: break-word
+}
+
+.cv {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 50px; height: 50px; left: 0px; top: 0px; position: absolute; border-radius: 9999px
+}
+
+.cw {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 100px; height: 100px; left: 335px; top: 2px; position: absolute
+}
+
+.cx {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    width: 90px; height: 90px; padding-right: 3px; right: 15px; bottom: 10px; position: fixed; display: inline-flex
+}
+
+* {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    font-family: Arial, sans-serif;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+footer {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    margin-top: auto;
+}
+
+.footer-content {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-section {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    flex: 1;
+    padding: 10px 20px;
+}
+
+.footer-section h2 {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.footer-section p,
+.footer-section ul {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+.footer-section ul {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    list-style-type: none;
+}
+
+.footer-section ul li {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    margin-bottom: 10px;
+}
+
+.footer-section ul li a {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer-section ul li a:hover {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    color: #00aaff;
+}
+
+.footer-bottom {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    text-align: center;
+    padding: 10px;
+    font-size: 0.8rem;
+    border-top: 1px solid #555;
+    color: #aaa;
+}
+
+.footer-bottom a {
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    color: #00aaff;
+    text-decoration: none;
+}
+
+*{
+        cursor: url(../img/Slice\ 1\ \(1\).png);
+    cursor: url(../img/Cursor.png)
+}

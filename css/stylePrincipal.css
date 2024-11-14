@@ -1,0 +1,113 @@
+/* Main container styles */
+.main-container {
+    width: 1440px;
+    height: 5380px;
+    position: relative;
+    background: #1E3A5F;
+}
+
+/* Intro section styles */
+.intro-section {
+    position: absolute;
+    top: 96px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    background: white;
+    gap: 79px;
+}
+
+.intro-content {
+    display: flex;
+    height: 827px;
+    padding: 127px 160px 148px 160px;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-content {
+    width: 1120px;
+    position: relative;
+}
+
+.text-content h1 {
+    color: #FF6F00;
+    font-size: 48px;
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: 400;
+    margin: 0;
+}
+
+.text-content p {
+    color: black;
+    font-size: 30px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 200;
+    margin: 20px 0 0 0;
+}
+
+.intro-content img {
+    width: 550px;
+    height: 507px;
+    margin-left: 20px;
+}
+
+.spacer {
+    width: 1444px;
+    height: 125px;
+    background: #1E3A5F;
+}
+
+/* Articles section styles */
+.articles-section {
+    padding: 91px 660px 221px 165px;
+    position: absolute;
+    top: 1120px;
+    background: linear-gradient(180deg, #1E3A5F 69%, #3E78C5 100%);
+    color: white;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.articles-container {
+    display: flex;
+    gap: 40px;
+}
+
+.article-card {
+    width: 325px;
+    background: #F4F4F4;
+    border-radius: 30px;
+    box-shadow: 10px 4px 14.5px rgba(0, 0, 0, 0.25);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.article-card img {
+    width: 100%;
+    height: 314px;
+    border-radius: 28px;
+}
+
+.article-card h2 {
+    font-size: 20px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 900;
+    color: black;
+    margin-top: 10px;
+}
+
+.article-card p {
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 200;
+    color: black;
+    text-align: center;
+}
+
+

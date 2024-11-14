@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a4c4ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.quiz-container {
+    text-align: center;
+    background-color: rgba(30, 58, 95, 1);
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 80%;
+    max-width: 500px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+#question-container {
+    margin-bottom: 20px;
+}
+
+#options-container {
+    margin: 28px ;
+}
+
+button {
+    background-color: rgba(255, 111, 0, 1);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: rgba(255, 111, 0, 1);
+}
+
+#feedback {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+#score {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#next-button {
+    margin-top: 20px;
+    display: none;
+}
+
+/* Estilo para o botão "Voltar" */
+#back-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #ff5722; /* Cor laranja */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    z-index: 1000; /* Garantir que fique acima de outros elementos */
+}
+
+#back-button:hover {
+    background-color: #e64a19;
+}

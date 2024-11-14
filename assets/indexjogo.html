@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de Educação Financeira</title>
+    <link rel="stylesheet" href="../css/stylejogo.css">
+</head>
+
+<body>
+    <div class="quiz-container">
+        <header>
+            <h1>Quiz de Educação Financeira</h1>
+            <p>Responda as perguntas sobre finanças e teste seus conhecimentos!</p>
+        </header>
+
+        <div id="question-container">
+            <p id="question">Pergunta aparecerá aqui</p>
+            <div id="options-container">
+                <!-- As opções serão inseridas aqui -->
+            </div>
+        </div>
+
+        <div id="feedback">
+            <p id="feedback-message"></p>
+        </div>
+
+        <div id="score">
+            <p>Pontuação: <span id="score-value">0</span></p>
+        </div>
+
+        <button id="next-button" onclick="nextQuestion()">Próxima Pergunta</button>
+    </div>
+    <button id="back-button" onclick="goBack()">Voltar</button>
+
+    <script src="../js/scriptjogo.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,432 @@
+.educao-financeira-para {
+    position: absolute;
+    top: 83px;
+    left: calc(50% - 591px);
+    font-size: 64px;
+    font-family: 'Julius Sans One';
+    color: #ff6f00;
+    display: inline-block;
+    width: 1212px;
+    height: 59px;
+}
+.estamos-aqui-para {
+    position: absolute;
+    top: 188px;
+    left: 170px;
+    font-weight: 200;
+    display: inline-block;
+    width: 1192px;
+    height: 178px;
+}
+.oferecemos-contedos-sobre {
+    position: absolute;
+    top: 466px;
+    left: 198px;
+    font-weight: 200;
+    display: inline-block;
+    width: 732px;
+}
+.frame-child {
+    position: absolute;
+    top: -204px;
+    left: -229px;
+    border-radius: 50%;
+    background-color: #ff6f00;
+    width: 70px;
+    height: 70px;
+}
+.frame-item {
+    position: absolute;
+    top: 630px;
+    left: -99px;
+    border-radius: 50%;
+    background-color: #ff6f00;
+    width: 224px;
+    height: 231px;
+}
+.icon {
+    position: absolute;
+    top: 414px;
+    left: 1002px;
+    width: 347.2px;
+    height: 340px;
+    object-fit: cover;
+}
+.frame-inner {
+    position: absolute;
+    top: -109px;
+    left: -271px;
+    width: 409px;
+    height: 544px;
+}
+.educao-financeira-para-adult-parent {
+    position: absolute;
+    top: 96px;
+    left: 0px;
+    width: 1440px;
+    height: 795px;
+    overflow: hidden;
+    font-size: 32px;
+    color: #000;
+    font-family: 'Lexend Deca';
+}
+.aulas-em-vdeo {
+    position: absolute;
+    top: calc(50% - 401px);
+    left: calc(50% - 259px);
+    display: inline-block;
+    width: 517px;
+    height: 70px;
+}
+.rectangle-icon {
+    position: absolute;
+    top: calc(50% - 245px);
+    left: calc(50% - 511px);
+    width: 1022px;
+    height: 490px;
+    object-fit: cover;
+}
+.aulas-em-vdeo-parent {
+    position: absolute;
+    top: 891px;
+    left: 3px;
+    background-color: #3e78c5;
+    width: 1440px;
+    height: 1024px;
+    overflow: hidden;
+    font-size: 64px;
+    color: #000;
+    font-family: 'Julius Sans One';
+}
+.contact {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+.para-adultos {
+    position: absolute;
+    height: 0.59%;
+    width: 8.54%;
+    top: 1.33%;
+    right: 26.81%;
+    bottom: 98.08%;
+    left: 64.65%;
+}
+.contatos {
+    position: absolute;
+    height: 0.59%;
+    width: 6.25%;
+    top: 1.36%;
+    right: 18.82%;
+    bottom: 98.05%;
+    left: 74.93%;
+}
+.barra {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #1e3a5f;
+}
+.home1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    display: inline-block;
+}
+.home {
+    position: absolute;
+    height: 100%;
+    width: 7.84%;
+    top: 0%;
+    right: 92.16%;
+    bottom: 0%;
+    left: 0%;
+}
+.sobre {
+    position: absolute;
+    height: 100%;
+    width: 9.28%;
+    top: 0%;
+    right: 75.2%;
+    bottom: 0%;
+    left: 15.52%;
+    cursor: pointer;
+}
+.para-jovens {
+    position: absolute;
+    height: 98.27%;
+    width: 18.08%;
+    top: 0%;
+    right: 49.44%;
+    bottom: 1.73%;
+    left: 32.48%;
+    cursor: pointer;
+}
+.para-adultos1 {
+    position: absolute;
+    height: 100%;
+    width: 19.68%;
+    top: 0%;
+    right: 22.08%;
+    bottom: 0%;
+    left: 58.24%;
+    cursor: pointer;
+}
+.contatos1 {
+    position: absolute;
+    height: 100%;
+    width: 14.4%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 85.6%;
+}
+.menu {
+    position: absolute;
+    height: 18.02%;
+    width: 43.4%;
+    top: 40.63%;
+    right: 16.67%;
+    bottom: 41.35%;
+    left: 39.93%;
+}
+.dinheiro-inteligente {
+    position: absolute;
+    top: 34%;
+    left: 28.68%;
+}
+.headerr-child {
+    position: absolute;
+    height: 100%;
+    width: 19.38%;
+    top: 0%;
+    right: 80.62%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 50%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.headerr {
+    position: absolute;
+    height: 52.08%;
+    width: 17.92%;
+    top: 22.92%;
+    right: 70.76%;
+    bottom: 25%;
+    left: 11.32%;
+    font-size: 20px;
+    color: #fff;
+    font-family: Jaro;
+}
+.header-child {
+    position: absolute;
+    height: 104.17%;
+    width: 6.94%;
+    top: 2.08%;
+    right: 69.79%;
+    bottom: -6.25%;
+    left: 23.26%;
+    overflow: hidden;
+}
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 96px;
+}
+.artigos {
+    position: absolute;
+    top: calc(50% - 401px);
+    left: calc(50% - 130px);
+    display: inline-block;
+    width: 261px;
+    height: 70px;
+}
+.retngulo-das-redes-sociais {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #ff6f00;
+    width: 1440px;
+    height: 132px;
+}
+.whatsapp {
+    position: absolute;
+    top: 31.2px;
+    left: 1196px;
+    width: 93px;
+    height: 74.4px;
+    overflow: hidden;
+}
+.redes-sociais {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 132px;
+}
+.rodap {
+    position: absolute;
+    top: 892px;
+    left: 0px;
+    width: 1440px;
+    height: 132px;
+}
+.curiosidades-1-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 10px 4px 14.5px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    background-color: #f4f4f4;
+}
+.os-juros-aumentam {
+    position: absolute;
+    height: 18.76%;
+    width: 89.85%;
+    top: 69.02%;
+    left: 4.92%;
+    font-weight: 200;
+    display: inline-block;
+}
+.juros {
+    position: absolute;
+    top: 59.38%;
+    left: calc(50% - 30.5px);
+    font-size: 20px;
+    font-weight: 900;
+    display: inline-block;
+    width: 60px;
+}
+.curiosidades-1-item {
+    position: absolute;
+    height: 54.04%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 45.96%;
+    left: 0%;
+    border-radius: 28px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.curiosidades-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 325px;
+    height: 581px;
+}
+.investir-essencial {
+    position: absolute;
+    height: 19.62%;
+    width: 84.31%;
+    top: 69.02%;
+    left: 8.31%;
+    font-weight: 200;
+    display: inline-block;
+}
+.investimentos {
+    position: absolute;
+    width: 47.69%;
+    top: 59.38%;
+    left: 26.77%;
+    font-size: 20px;
+    font-weight: 900;
+    display: inline-block;
+}
+.curiosidades-2-item {
+    position: absolute;
+    height: 54.04%;
+    width: 99.91%;
+    top: 0%;
+    right: 0.09%;
+    bottom: 45.96%;
+    left: 0%;
+    border-radius: 28px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.curiosidades-2 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 162.5px);
+    width: 325px;
+    height: 581px;
+}
+.o-endividamento-pode {
+    position: absolute;
+    width: 87.69%;
+    top: 69.02%;
+    left: 7.69%;
+    font-weight: 200;
+    display: inline-block;
+}
+.endividamento {
+    position: absolute;
+    width: 49.85%;
+    top: 59.38%;
+    left: 26.46%;
+    font-size: 20px;
+    font-weight: 900;
+    display: inline-block;
+}
+.curiosidades-3 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 325px;
+    height: 581px;
+}
+.notcias-recentes {
+    position: absolute;
+    top: 221px;
+    left: 166px;
+    width: 1109px;
+    height: 581px;
+    font-size: 15px;
+    color: #000;
+    font-family: 'Lexend Deca';
+}
+.artigos-parent {
+    position: absolute;
+    top: 1915px;
+    left: 3px;
+    background-color: #1e3a5f;
+    width: 1440px;
+    height: 1024px;
+    overflow: hidden;
+    font-size: 64px;
+    color: #ff6f00;
+    font-family: 'Julius Sans One';
+}
+.paraadultos {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2939px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #f4f4f4;
+    font-family: Inter;
+}
+
